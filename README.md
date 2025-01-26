@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+Sobre mí 👨‍💻<br>¡Hola! 👋 Soy un apasionado estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana, ubicado en Colombia 🇨🇴. A mis 20 años, estoy en la recta final de mi carrera y completamente enfocado en el desarrollo de software.<br><br>Me encanta aprender, explorar nuevas tecnologías y enfrentar desafíos que impulsen mi crecimiento profesional. Mi objetivo es sobresalir en todo lo que hago, trabajando siempre con dedicación, creatividad y espíritu de innovación.<br><br>Soy alguien que valora el trabajo en equipo, pero también disfruto tomar la iniciativa para liderar y proponer soluciones eficientes. Estoy buscando activamente oportunidades para participar en proyectos que me permitan poner en práctica mis conocimientos, desarrollar habilidades y aportar valor con cada línea de código.<br><br>💡 Mis fortalezas incluyen:<br><br>Programación y desarrollo de software: Experiencia en tecnologías relacionadas con el desarrollo frontend y backend.<br>Gestión de proyectos ágiles: Implementación de metodologías para optimizar equipos y procesos.<br>Lenguajes de programación y tecnologías:<br>Competente en: Python, C++, Java, JavaScript, Git, SQL, React, Smart Contracts, HTML, CSS.<br>Conocimientos en: TypeScript, Kotlin, Assembly, Spring Boot, Selenium, Postman.<br>🚀 Mi visión es formar parte de equipos donde pueda aprender y, al mismo tiempo, contribuir al éxito de proyectos desafiantes. Si estás buscando a alguien comprometido, con ganas de marcar la diferencia y con una fuerte ética de trabajo, ¡no dudes en contactarme!<br><br>🔗 Conecta conmigo y exploremos juntos nuevas oportunidades:<br>https://www.linkedin.com/in/juan-jos%C3%A9-bermudez-08a419301/
 
-<!--
-**JbermudezDev/JbermudezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jbermudez0928) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juan Jose Bermudez) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JbermudezDev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JbermudezDev&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JbermudezDev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JbermudezDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JbermudezDev&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JbermudezDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
